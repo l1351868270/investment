@@ -1,2 +1,4 @@
 # investment
-期货投资系统
+```
+This is a investment system of the human's subjectivity
+```
