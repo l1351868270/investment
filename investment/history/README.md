@@ -1,0 +1,1 @@
+I begin invest from the one of the day 2012.09. This folder record the huge chance from that day.
